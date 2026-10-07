@@ -1,3 +1,5 @@
+<img src="img/matcode-okladka.png" alt="MATCODE: małe programy, które robią jedną rzecz dobrze" width="100%">
+
 ## MATCODE
 
 Małe programy, które robią jedną rzecz dobrze. Działają na Twoim komputerze,
