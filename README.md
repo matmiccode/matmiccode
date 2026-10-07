@@ -1,9 +1,12 @@
-<img src="img/matcode-okladka.png" alt="MATCODE: małe programy, które robią jedną rzecz dobrze" width="100%">
+<img src="img/matcode-okladka.png" alt="MATCODE: małe programy na Windows. Klikasz i działa." width="100%">
 
 ## MATCODE
 
-Małe programy, które robią jedną rzecz dobrze. Działają na Twoim komputerze,
-nie w chmurze. Za darmo, z otwartym kodem, po polsku.
+Małe programy na Windows. Klikasz i działa. Bez chmury i zakładania kont.
+Za darmo, z otwartym kodem, po polsku.
+
+*Small Windows apps. Click and it works. No cloud, no sign-up. Free and open source.
+The interface is Polish for now, English is on the way.*
 
 **[matmiccode.github.io](https://matmiccode.github.io/)** – wszystkie programy w jednym miejscu.
 
