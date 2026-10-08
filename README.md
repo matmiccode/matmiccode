@@ -1,11 +1,11 @@
-<img src="img/matcode-okladka.png" alt="MATCODE: małe programy na Windows. Klikasz i działa." width="100%">
+<img src="img/matcode-okladka.png" alt="MATCODE: moje narzędzia na PC. Instalujesz i działają." width="100%">
 
 ## MATCODE
 
-Małe programy na Windows. Klikasz i działa. Bez chmury i zakładania kont.
+Moje narzędzia na PC. Instalujesz i działają. Bez chmury i zakładania kont.
 Za darmo, z otwartym kodem, po polsku.
 
-*Small Windows apps. Click and it works. No cloud, no sign-up. Free and open source.
+*My PC tools. Install them and they just work. No cloud, no sign-up. Free and open source.
 The interface is Polish for now, English is on the way.*
 
 **[matmiccode.github.io](https://matmiccode.github.io/)** – wszystkie programy w jednym miejscu.
